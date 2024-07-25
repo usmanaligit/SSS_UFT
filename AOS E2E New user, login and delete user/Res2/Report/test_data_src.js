@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'C:\\Users\\demo\\Documents\\GitHub\\SSS_UFT\\AOS E2E New user, login and delete user\\Res2',namePairs:[]}]};

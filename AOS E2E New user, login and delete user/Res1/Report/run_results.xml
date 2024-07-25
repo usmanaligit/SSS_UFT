@@ -1,0 +1,561 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<ReportNode type="Step">
+<Data>
+    <Name>SystemUtil.Run "chrome.exe",1</Name>
+    <StartTime>2024-07-18 06:50:27</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>04399cc0dc23445ab81e70c01a6346d8</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\b96bd17d-4403-4f20-a12c-fd2c789b789d.jpeg" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>"Advantage Shopping_2"- Smart Identification</Name>
+    <Description>&lt;P&gt;&lt;span class="text"&gt;The smart identification mechanism was invoked.&lt;/span&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN class=text&gt;Reason: object not unique (4 objects found)&lt;/SPAN&gt;&lt;/P&gt;           &lt;SPAN class=text&gt;&lt;b&gt;Original description:&lt;/b&gt;&lt;/SPAN&gt;&lt;br&gt;micclass=Browser&lt;br&gt;&lt;P&gt;&lt;FONT face=Verdana size=2&gt;&lt;SPAN class=text&gt;&lt;B&gt;Smart Identification Alternative Description: &lt;/B&gt;&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;FONT face=Verdana size=2&gt;&lt;u&gt;Base filter properties (4 objects found)&amp;nbsp;&lt;/FONT&gt;&lt;/u&gt;&lt;br&gt;
+micclass=Browser&lt;br&gt;&lt;br&gt;&lt;FONT face=Verdana size=2&gt;&lt;u&gt;Optional filter properties&lt;/FONT&gt;&lt;/u&gt;&lt;br&gt;
+name=Advantage Shopping&lt;SPAN class=passed&gt; (Used&lt;/SPAN&gt;, 2 matches)&lt;/SPAN&gt;&lt;br&gt;title=Advantage Shopping&lt;SPAN class=passed&gt; (Used&lt;/SPAN&gt;, 2 matches)&lt;/SPAN&gt;&lt;br&gt;openurl=https://advantageonlineshopping.com/#&lt;SPAN class=passed&gt; (Used&lt;/SPAN&gt;, 2 matches)&lt;/SPAN&gt;&lt;br&gt;opentitle=Advantage Shopping&lt;SPAN class=passed&gt; (Used&lt;/SPAN&gt;, 2 matches)&lt;/SPAN&gt;&lt;br&gt;openedbytestingtool=0&lt;SPAN class=passed&gt; (Used&lt;/SPAN&gt;, 1 matches)&lt;/SPAN&gt;&lt;br&gt;number of tabs=1&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;</Description>
+    <StartTime>2024-07-18 06:50:33</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <SmartIdentificationInfo>
+        <SIDBasicProperties>
+          <Property>
+            <Name><![CDATA[micclass]]></Name>
+            <Value><![CDATA[Browser]]></Value>
+          </Property>
+          <BasicMatch>4</BasicMatch>
+        </SIDBasicProperties>
+        <SIDOptionalProperties>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[Advantage Shopping]]></Value>
+            <Info><![CDATA[Used]]></Info>
+            <Matches>2</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[title]]></Name>
+            <Value><![CDATA[Advantage Shopping]]></Value>
+            <Info><![CDATA[Used]]></Info>
+            <Matches>2</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[openurl]]></Name>
+            <Value><![CDATA[https://advantageonlineshopping.com/#]]></Value>
+            <Info><![CDATA[Used]]></Info>
+            <Matches>2</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[opentitle]]></Name>
+            <Value><![CDATA[Advantage Shopping]]></Value>
+            <Info><![CDATA[Used]]></Info>
+            <Matches>2</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[openedbytestingtool]]></Name>
+            <Value><![CDATA[False]]></Value>
+            <Info><![CDATA[Used]]></Info>
+            <Matches>1</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[number of tabs]]></Name>
+            <Value><![CDATA[1]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+        </SIDOptionalProperties>
+      </SmartIdentificationInfo>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping_2]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<P><span class="text">The smart identification mechanism was invoked.</span></P><P><SPAN class=text>Reason: object not unique (4 objects found)</SPAN></P>           <SPAN class=text><b>Original description:</b></SPAN><br>micclass=Browser<br><P><FONT face=Verdana size=2><SPAN class=text><B>Smart Identification Alternative Description: </B></SPAN></FONT></P><FONT face=Verdana size=2><u>Base filter properties (4 objects found)&nbsp;</FONT></u><br>
+micclass=Browser<br><br><FONT face=Verdana size=2><u>Optional filter properties</FONT></u><br>
+name=Advantage Shopping<SPAN class=passed> (Used</SPAN>, 2 matches)</SPAN><br>title=Advantage Shopping<SPAN class=passed> (Used</SPAN>, 2 matches)</SPAN><br>openurl=https://advantageonlineshopping.com/#<SPAN class=passed> (Used</SPAN>, 2 matches)</SPAN><br>opentitle=Advantage Shopping<SPAN class=passed> (Used</SPAN>, 2 matches)</SPAN><br>openedbytestingtool=0<SPAN class=passed> (Used</SPAN>, 1 matches)</SPAN><br>number of tabs=1<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>]]></OperationData>
+      </TestObject>
+      <IconKey>139a636df98a4ee08a657f62adad5b0e</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\b38ab3e2-163e-4a87-9d19-c17f25f131e8.jpeg" highlight="0,0,1920,1040" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>UserMenu.Click</Name>
+    <Description />
+    <StartTime>2024-07-18 06:50:34</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping_2]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[UserMenu]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[My account My orders Sign out]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>58b0f2244eaf43a5a49ff5abcb13cee0</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\ecd8c2d0-2a8b-4790-82b2-0ad59f2403b1.jpeg" highlight="1723,130,52,59" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Advantage Shopping</Name>
+    <Description>Page</Description>
+    <StartTime>2024-07-18 06:50:34</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping_2]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>ace922287adb414c8abf1929ffcd3db9</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Advantage Shopping_2</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2024-07-18 06:50:33</StartTime>
+    <Duration>2</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping_2]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>99541f8518834e3d8aa794ab21a09db6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>"Advantage Shopping"- Smart Identification</Name>
+    <Description>&lt;P&gt;&lt;span class="text"&gt;The smart identification mechanism was invoked.&lt;/span&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN class=text&gt;Reason: object not unique (4 objects found)&lt;/SPAN&gt;&lt;/P&gt;           &lt;SPAN class=text&gt;&lt;b&gt;Original description:&lt;/b&gt;&lt;/SPAN&gt;&lt;br&gt;micclass=Browser&lt;br&gt;&lt;P&gt;&lt;FONT face=Verdana size=2&gt;&lt;SPAN class=text&gt;&lt;B&gt;Smart Identification Alternative Description: &lt;/B&gt;&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;FONT face=Verdana size=2&gt;&lt;u&gt;Base filter properties (4 objects found)&amp;nbsp;&lt;/FONT&gt;&lt;/u&gt;&lt;br&gt;
+micclass=Browser&lt;br&gt;&lt;br&gt;&lt;FONT face=Verdana size=2&gt;&lt;u&gt;Optional filter properties&lt;/FONT&gt;&lt;/u&gt;&lt;br&gt;
+name=Advantage Shopping&lt;SPAN class=passed&gt; (Used&lt;/SPAN&gt;, 2 matches)&lt;/SPAN&gt;&lt;br&gt;title=Advantage Shopping&lt;SPAN class=passed&gt; (Used&lt;/SPAN&gt;, 2 matches)&lt;/SPAN&gt;&lt;br&gt;openurl=http://advantageonlineshopping.com/#&lt;SPAN class=Failed&gt; (Skipped)&lt;/SPAN&gt;&lt;br&gt;opentitle=Advantage Shopping&lt;SPAN class=passed&gt; (Used&lt;/SPAN&gt;, 2 matches)&lt;/SPAN&gt;&lt;br&gt;openedbytestingtool=0&lt;SPAN class=passed&gt; (Used&lt;/SPAN&gt;, 1 matches)&lt;/SPAN&gt;&lt;br&gt;number of tabs=1&lt;SPAN class=warning&gt; (Ignored)&lt;FONT color=#000000&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;br&gt;</Description>
+    <StartTime>2024-07-18 06:50:35</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <SmartIdentificationInfo>
+        <SIDBasicProperties>
+          <Property>
+            <Name><![CDATA[micclass]]></Name>
+            <Value><![CDATA[Browser]]></Value>
+          </Property>
+          <BasicMatch>4</BasicMatch>
+        </SIDBasicProperties>
+        <SIDOptionalProperties>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[Advantage Shopping]]></Value>
+            <Info><![CDATA[Used]]></Info>
+            <Matches>2</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[title]]></Name>
+            <Value><![CDATA[Advantage Shopping]]></Value>
+            <Info><![CDATA[Used]]></Info>
+            <Matches>2</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[openurl]]></Name>
+            <Value><![CDATA[http://advantageonlineshopping.com/#]]></Value>
+            <Info><![CDATA[Skipped]]></Info>
+            <Matches>0</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[opentitle]]></Name>
+            <Value><![CDATA[Advantage Shopping]]></Value>
+            <Info><![CDATA[Used]]></Info>
+            <Matches>2</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[openedbytestingtool]]></Name>
+            <Value><![CDATA[False]]></Value>
+            <Info><![CDATA[Used]]></Info>
+            <Matches>1</Matches>
+          </Property>
+          <Property>
+            <Name><![CDATA[number of tabs]]></Name>
+            <Value><![CDATA[1]]></Value>
+            <Info><![CDATA[Ignored]]></Info>
+            <Matches>0</Matches>
+          </Property>
+        </SIDOptionalProperties>
+      </SmartIdentificationInfo>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<P><span class="text">The smart identification mechanism was invoked.</span></P><P><SPAN class=text>Reason: object not unique (4 objects found)</SPAN></P>           <SPAN class=text><b>Original description:</b></SPAN><br>micclass=Browser<br><P><FONT face=Verdana size=2><SPAN class=text><B>Smart Identification Alternative Description: </B></SPAN></FONT></P><FONT face=Verdana size=2><u>Base filter properties (4 objects found)&nbsp;</FONT></u><br>
+micclass=Browser<br><br><FONT face=Verdana size=2><u>Optional filter properties</FONT></u><br>
+name=Advantage Shopping<SPAN class=passed> (Used</SPAN>, 2 matches)</SPAN><br>title=Advantage Shopping<SPAN class=passed> (Used</SPAN>, 2 matches)</SPAN><br>openurl=http://advantageonlineshopping.com/#<SPAN class=Failed> (Skipped)</SPAN><br>opentitle=Advantage Shopping<SPAN class=passed> (Used</SPAN>, 2 matches)</SPAN><br>openedbytestingtool=0<SPAN class=passed> (Used</SPAN>, 1 matches)</SPAN><br>number of tabs=1<SPAN class=warning> (Ignored)<FONT color=#000000></FONT></SPAN><br>]]></OperationData>
+      </TestObject>
+      <IconKey>139a636df98a4ee08a657f62adad5b0e</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\c0794216-69e1-4550-b602-0ce5d7597bb2.jpeg" highlight="0,0,1920,1040" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>CREATE NEW ACCOUNT.Click</Name>
+    <Description />
+    <StartTime>2024-07-18 06:50:35</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[CREATE NEW ACCOUNT]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[CREATE NEW ACCOUNT]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>58b0f2244eaf43a5a49ff5abcb13cee0</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\c658cc2b-4bbb-46e7-af64-58a19c92e409.jpeg" highlight="9,117,0,0" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Advantage Shopping</Name>
+    <Description>Page</Description>
+    <StartTime>2024-07-18 06:50:35</StartTime>
+    <Duration>23</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>ace922287adb414c8abf1929ffcd3db9</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Advantage Shopping</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2024-07-18 06:50:35</StartTime>
+    <Duration>23</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>99541f8518834e3d8aa794ab21a09db6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>usernameRegisterPage</Name>
+    <ErrorText>Cannot identify the object "usernameRegisterPage" (of class WebEdit).
+Verify that this object's properties match an object currently displayed in your application.</ErrorText>
+    <Description>Cannot&amp;nbsp;identify&amp;nbsp;the&amp;nbsp;object&amp;nbsp;"usernameRegisterPage"&amp;nbsp;(of&amp;nbsp;class&amp;nbsp;WebEdit).&lt;br/&gt;Verify&amp;nbsp;that&amp;nbsp;this&amp;nbsp;object's&amp;nbsp;properties&amp;nbsp;match&amp;nbsp;an&amp;nbsp;object&amp;nbsp;currently&amp;nbsp;displayed&amp;nbsp;in&amp;nbsp;your&amp;nbsp;application.&lt;br/&gt;&lt;br/&gt;Object's physical description:&lt;br&gt;Type = text&lt;br&gt;Mercury Class = WebEdit&lt;br&gt;Html Tag = INPUT&lt;br&gt;_xpath = //SEC-VIEW/DIV[normalize-space()="*UsernameUsername"]/INPUT[1]&lt;br&gt;|rows = 0&lt;br&gt;placeholder = &lt;br&gt;Name = usernameRegisterPage&lt;br&gt;Max Length = 524288&lt;br&gt;Html Id = &lt;br&gt;default value = &lt;br&gt;DHTML Class = ng-untouched ng-valid ng-scope in-focus ng-dirty ng-valid-parse&lt;br&gt;acc_name = &lt;br&gt;</Description>
+    <StartTime>2024-07-18 06:50:58</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <StackTrace>
+        <StackFrame>
+          <ModuleName><![CDATA[Create New User]]></ModuleName>
+          <FileName><![CDATA[Create New User]]></FileName>
+          <Language><![CDATA[Create New User]]></Language>
+          <FunctionName><![CDATA[VBScript global code]]></FunctionName>
+          <Scripts><![CDATA[Browser("Advantage Shopping").Page("Advantage Shopping").WebEdit("usernameRegisterPage").Set DataTable("New Users", dtGlobalSheet)]]></Scripts>
+          <LineNo><![CDATA[10]]></LineNo>
+        </StackFrame>
+      </StackTrace>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[usernameRegisterPage]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Cannot&nbsp;identify&nbsp;the&nbsp;object&nbsp;"usernameRegisterPage"&nbsp;(of&nbsp;class&nbsp;WebEdit).<br/>Verify&nbsp;that&nbsp;this&nbsp;object's&nbsp;properties&nbsp;match&nbsp;an&nbsp;object&nbsp;currently&nbsp;displayed&nbsp;in&nbsp;your&nbsp;application.]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[text]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[usernameRegisterPage]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>9871489b4fa44629b81fa28ad7a329ea</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <NodeType>Run Error</NodeType>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\99d06f31-655e-41e2-a5b3-d98c2711c9a1.jpeg" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2024-07-18 06:51:03</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>4aba4871291b4ffb9c4032de84e8262c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\cdcea790-2414-4d12-a13d-fd885edda9c1.jpeg" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Advantage Shopping</Name>
+    <Description>Page</Description>
+    <StartTime>2024-07-18 06:50:58</StartTime>
+    <Duration>5</Duration>
+    <Result>Failed</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>ace922287adb414c8abf1929ffcd3db9</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Advantage Shopping</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2024-07-18 06:50:58</StartTime>
+    <Duration>5</Duration>
+    <Result>Failed</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Advantage Shopping]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>99541f8518834e3d8aa794ab21a09db6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Create New User</Name>
+    <Description />
+    <StartTime>2024-07-18 06:50:26</StartTime>
+    <Duration>37</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>c36d0b73293d432dbae81cef8f50119d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2024-07-18 06:50:23</StartTime>
+    <Duration>40</Duration>
+    <Result>Failed</Result>
+    <Extension>
+      <IconKey>04a920eebeb44ed1a25ce6209461bb7f</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications>
+      <TestedApplication>
+        <RuntimeEngineInfo />
+        <Name>Google Chrome</Name>
+        <Path>C:\Program Files\Google\Chrome\Application\chrome.exe</Path>
+        <Version>126.0</Version>
+        <Technology>web</Technology>
+        <Reserved />
+        <AdditionalInfos>
+          <Info>https://advantageonlineshopping.com/#/</Info>
+        </AdditionalInfos>
+      </TestedApplication>
+    </TestedApplications>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>AOS E2E New user, login and delete user</Name>
+    <ToolName>Micro Focus UFT One</ToolName>
+    <ToolVersion>2023</ToolVersion>
+    <ToolVersionStringLiteral>2023</ToolVersionStringLiteral>
+    <Description />
+    <StartTime>2024-07-18 06:50:21</StartTime>
+    <Duration>42</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <ParallelRunnerEnvInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ID />
+        <Manufacturer />
+        <Model />
+        <OsType />
+        <OsVersion />
+        <DesktopBrowser>Google Chrome</DesktopBrowser>
+        <ErrorMessage />
+      </ParallelRunnerEnvInfo>
+      <IconKey>230fe9ecd3134be9b283a4c1ec5566f1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>00:00:00</Timezone>
+      <Locale>English (United States)</Locale>
+      <User>demo</User>
+      <CpuInfo>Intel(R) Core(TM) i7-10850H CPU @ 2.70GHz</CpuInfo>
+      <NumberOfCores>4</NumberOfCores>
+      <TotalMemory>16383</TotalMemory>
+      <HostName>NIMBUSCLIENT</HostName>
+      <OSInfo>Windows Server 2019 (x64)</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xlsx" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res1</ResultName>
+    <RunStartTime>2024-07-18 06:50:21</RunStartTime>
+    <Timezone>00:00:00</Timezone>
+    <OrchestrationToolName>Micro Focus UFT One</OrchestrationToolName>
+    <OrchestrationToolVersion>2023</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>2023</OrchestrationToolVersionStringLiteral>
+  </GeneralInfo>
+</Results>
